@@ -1,1 +1,1 @@
-Todo-app-1.0-SNAPSHOT-WORKING
+Todo-app-1.0
