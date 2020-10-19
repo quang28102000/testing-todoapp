@@ -1,1 +1,1 @@
-Todo-app-2.0-SNAPSHOT
+Todo-app-2.0
